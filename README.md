@@ -1,7 +1,8 @@
-# Restaurant-Table-management 🍽️
+# Restaurant-Table-management 🍽️ 
 This is a restaurant management system built using python and SQL ,web based. Features: Add tables, combine table, waitlist, color-coded waiting table status, FIFO concept implementation, Billing with customizable Tax and tips, Printable bills, Assignable waiters, Revenue calculation , Inventory Management.
 
 A More Detailed information on this project:
+
 This full-stack Restaurant Management System combines front-of-house table visualization, FIFO order processing, floor plan customization, and billing automation powered by a relational SQLite database structure.
 
 Core Features
