@@ -4,6 +4,12 @@ HOW TO USE:
 
 Download the restaurant_management_system (1) file and then open it form your file explore. 📁
 
+METHOD 1:(Recommended)
+
+1)Download / copy file restaurant_management_system (1).html and run is VS code (Download VS code if you dont have already
+
+Method 2:
+
 1)Save the file as: restaurant_management_system (1).html
 
 2)In the same folder, run: python3 -m http.server 8000
